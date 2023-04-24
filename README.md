@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Blockchain, MERN**
 
