@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethkommu7&label=Profile%20views&color=0e75b6&style=flat" alt="praneethkommu7" /> </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **BUILDING PROJECTS**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **PYTHON**
 
 - 💬 Ask me about **Blockchain, MERN**
 
