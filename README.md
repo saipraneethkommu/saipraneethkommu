@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&s"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saipraneethkommu&label=Profile%20views&color=0e75b6&style=flat" alt="saipraneethkommu" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **saipraneethkommu@gmail.com**
 
